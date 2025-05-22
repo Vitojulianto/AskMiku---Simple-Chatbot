@@ -1,12 +1,24 @@
-# React + Vite
+🎤 AskMiku - Simple Anime-Themed Chatbot
+AskMiku adalah sebuah chatbot sederhana yang saya buat dengan menggunakan React js dan bertemakan Hatsune Miku. Saya buat ini menggunakan data dummy belum menggunakan eksternal API dan library apapun dan yang pastinya akan saya kembangkan kedepannya.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+🎀 Anime-themed UI inspired by Hatsune Miku
 
-Currently, two official plugins are available:
+🧠 Responds to predefined inputs via a static object
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👤 Simple user & bot avatar system
 
-## Expanding the ESLint configuration
+💬 Typing indicator for a more lifelike experience
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌈 Beautiful gradient background and chat bubble design
+
+📱 Fully responsive layout with clean component structure
+
+🛠️ Tech Stack
+React (Vite or CRA)
+
+Tailwind CSS for styling
+
+Pure JS logic (no NLP, no fuzzy matching)
+
+Custom avatar images (/miku.png, /vit.jpg)
